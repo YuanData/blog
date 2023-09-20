@@ -1,0 +1,27 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = ''
+theme = 'LoveIt'
+
+[author]
+name = "Alan"
+[params]
+defaultTheme = "light"
+title = ""
+
+[params.header.title]
+name = "TechTrajectory"
+
+[params.page.share]
+enable = false
+
+[params.footer]
+enable = true
+author = true
+hugo = false
+since = 2023
+
+[params.home.profile]
+title = "TechTrajectory"
+subtitle = "Explore the dynamic landscape of technology with TechTrajectory. This blog offers a unique perspective on the ever-evolving tech world, shedding light on the intricacies of system design and the latest innovations."
+typeit = false
