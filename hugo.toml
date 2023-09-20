@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = ''
 theme = 'LoveIt'
 
+[taxonomies]
+  tag = "tags"
+
 [author]
 name = "Alan"
 [params]
