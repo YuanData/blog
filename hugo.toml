@@ -8,6 +8,18 @@ theme = 'LoveIt'
 
 [author]
 name = "Alan"
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+  [[menu.main]]
+    weight = 2
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+
 [params]
 defaultTheme = "light"
 title = ""
