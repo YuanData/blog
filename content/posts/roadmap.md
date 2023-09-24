@@ -1,8 +1,9 @@
 ---
-title: "Roadmap"
+title: "Algorithms Roadmap"
 date: 2023-09-20T07:00:00+08:00
 draft: false
-tags: ["LeetCode"]
+categories: ["LeetCode"]
+tags: ["Algorithms"]
 ---
 ### Roadmap
 此流程圖描繪了從基礎技術如陣列和雜湊，逐步深入到更專業、高階的技術領域，如數學和幾何等技術的學習路徑。
