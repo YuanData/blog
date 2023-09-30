@@ -1,7 +1,7 @@
 ---
 title: "English Grammar"
 date: 2023-07-11T08:00:00+08:00
-lastmod: 2023-09-25T12:00:00+08:00
+lastmod: 2023-09-30T11:00:00+08:00
 draft: false
 ---
 ### Nouns
@@ -49,8 +49,55 @@ draft: false
     - This is my phone. It's mine.
     - They have found their seats. Can you see ours?
 ---
-- Reflexive pronouns: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves
-- Reciprocal pronouns: each other, one another
-- Demonstrative pronouns: this, these, that, those Relative pronouns: who, whom, whose, which, that
+- Reflexive pronouns: *myself, yourself, himself, herself, itself, ourselves, yourselves, themselves*
+    - Refer to the person or animal that is the subject of the verb.
+        - Jane likes herself in red.
+    1. As the objecto of the verb:
+        - Joe blames himself for the mistake.
+    2. As hte objecto of the preposition:
+        - Look at yourself!
+    3. As the indirect object of a verb:
+        - She helped herself to a sandwich.
+    4. To emphasise a noun or personal noun:
+        - Alex herself baked this amazing pie.
+
+- Reciprocal pronouns: *each other, one another*
+    - When two or more people do the same thing together
+        - Jessica and Tom sent each other letters.
+        - We sent ona another flowers.
+
+        {{< admonition type=warning title="" open=true >}}
+    Don't confuse reciprocal pronouns with possessive pronouns!
+     • Ted and Lola talk to each other regularly.
+     • Ted and Lola talk to themselves regularly.
+        {{< /admonition >}}
+- Demonstrative pronouns: *this, these, that, those*
+|              | **Near/ close by**  | **far** |
+|:------------:|:-------------------:|:-------:|
+| **Singular** | this                | that    |
+| **Plural**   | these               | those   |
+
+- Relative pronouns:  
+  who, whom  
+  whose  
+  which  
+  that  
+    - We use relative pronouns to introduce relative clauses, which is a sentence used to clarify or add information about who or what we are talking about.
+        - Marie Curie is the woman who discovered radium.
+        - I'm reading Wild, which is my favourite book, for hte third time.
 - Interrogative pronouns: who, what, where, whom, which, whose
+    - We use interrogative pronouns to ask questions.
+        - Who is that girl you were with?
+        - Which shoes should I wear tonight?
+        {{< admonition type=warning title="" open=true >}}
+    Don't confuse who's and whose!
+     • who's = who is (person)
+     • whose = (possessive)
+        {{< /admonition >}}
 - Indefinite pronouns: somewhere, anyone, nobody...
+|                          | **Person**              | **Place**  | **Thing**  |
+|:------------------------:|:-----------------------:|:----------:|:----------:|
+| **All**                  | everyone <br> everybody | everywhere | everything |
+| **some <br> (positive)** | someone <br> somebody   | somewhere  | something  |
+| **any <br> (negative)**  | anyone <br> anybody     | anywhere   | anything   |
+| **None**                 | no one <br> nobody      | nowhere    | nothing    |

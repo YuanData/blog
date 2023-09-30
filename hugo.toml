@@ -49,3 +49,6 @@ since = 2023
 title = "TechTrajectory"
 subtitle = "Explore the dynamic landscape of technology with TechTrajectory. This blog offers a unique perspective on the ever-evolving tech world, shedding light on the intricacies of system design and the latest innovations."
 typeit = false
+
+[markup.goldmark.renderer]
+unsafe = true
