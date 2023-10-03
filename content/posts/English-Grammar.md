@@ -101,3 +101,48 @@ draft: false
 | **some <br> (positive)** | someone <br> somebody   | somewhere  | something  |
 | **any <br> (negative)**  | anyone <br> anybody     | anywhere   | anything   |
 | **None**                 | no one <br> nobody      | nowhere    | nothing    |
+
+### Adjective
+> A word used to describe nouns, such as people, objects, events, substances, and ideas.
+
+- Only 1 form:
+    - tall, fat, cute, simple, long
+- Adding a prefix to an adjective:
+    - legal - illegal
+    - sensitive - insensitive
+    - honest - dishonest
+    - famous - infamous
+- Adding a suffix to a verb:
+    - attract - attractive
+    - enjoy - enjoyable
+    - hate - hateful
+    - create - creative
+
+#### Adjectives can be used in 3 ways in a sentence:
+- Between an article and a noun:
+    - I'm eating a juicy strawberry.
+    - The kind man lent me his jumper.
+- After a linking verb :
+    - The classroom is empty.
+    - Ben is handsome.
+- After a noun or an indefinite pronoun:
+    - Is there anything special I should buy from the shop?
+    - I spoke to the person concerned.
+
+#### Cumulative adjectives (different categories)
+> Used when the adjectives are from different categories (e.g., size, age, or quantity) and must be used in a specific order.
+
+| Type of adjective | Examples |
+|-------------------|----------|
+| 1. Quantity | one, two, six, entire |
+| 2. Opinion | nice, friendly, annoying, charming |
+| 3. Size or measurements | big, small, tall, tiny, large |
+| 4. Age | old, young, mature, elderly |
+| 5. Shape | round, triangular, bent |
+| 6. Color | rose, gold, faded, bright |
+| 7. Proper adjectives (origin, nationality, religion) | Christian, German, indigenous |
+| 8. Material | wooden, cotton, silk |
+| 9. Purpose | makeup brush, dining room |
+
+#### Coordinate adjectives (same category)
+> Individually modify a noun and are separated by a comma.
