@@ -145,4 +145,38 @@ draft: false
 | 9. Purpose | makeup brush, dining room |
 
 #### Coordinate adjectives (same category)
-> Individually modify a noun and are separated by a comma.
+> Individually modify a noun and are separated by a comma. 
+- Usually, adjectives from a same category than can be used in any order with a comma between them
+---
+1. Positive: She is smart.
+2. Comparative: She is smarter than her brother.
+3. Superlative: She is the smartest in the family.
+
+- Adjectives with 1 or 2 syllables:
+    - add -er to form the comparative
+    - add-est to form the superlative
+        - sweet-sweeter - sweetest
+        - pink-pinker - pinkest
+- Adjectives with 2 or more syllables:
+    - use more and than to form the comparative
+    - use the most to form the superlative
+        - beautiful – more beautiful than – the most beautiful
+        - pleasant - more pleasant than - the most pleasant
+
+• Special rules
+| Adjective form | Comparative | Superlative |
+|----------------|-------------|-------------|
+| 1 syllable ending in -e <br> cute, safe, nice | add -r <br> cuter, safer, nicer | add -st <br> cuest, safest, nicest |
+| 2 syllables ending in -y <br> happy, funny, silly  | change -y to i and add -er <br> happier, funnier, sillier | change -y to i and add -est <br> happiest, funniest, silliest |
+| 1 syllable ending in 1 vowel <br> and 1 consonant <br> big, hot | double the consonant and add -er <br> bigger, hotter | double the consonant and add -est <br> biggest, hottest |
+
+• Irreqular adjectives
+| Adjective form | Comparative | Superlative |
+|:--------------:|:-----------:|:-----------:|
+| good | better | best |
+| bad | worse | worst |
+| many | more | most |
+| much | more | most |
+
+• Equal attribute: as + adjective + as  
+• Equal quantities: as + adjective for quantity + noun + as
