@@ -180,3 +180,52 @@ draft: false
 
 • Equal attribute: as + adjective + as  
 • Equal quantities: as + adjective for quantity + noun + as
+
+### Adverbs
+> An adverb is a word used to describe or modify verbs, adjectives, and prepositions.
+
+- To emphasize or intensify adjectives or adverbs:
+    - That was an incredibly moving performance.
+    - You went to bed rather early for a Friday night.
+    - This flower is remarkably red.
+- At the beginning of a phrase, usually to emphasise a point:
+    - Finally, we found the toy we were looking for.
+    - Suddenly, she started crying.
+- In the middle of a phrase, before a verb:
+    - She quickly ran ahead.
+- At the end of a sentence, or after a verb or clause:
+    - She cried desperately.
+    - He called for help loudly.
+
+• Categories of adverbs
+| | |
+|:-:|:-:|
+| Manner: | elegantly, quietly, slowly, well |
+| Time: | before, since, eventually, usually, now |
+| Place: | everywhere, nearby, here, there |
+| Degree: | rather, almost, quite, very, enough |
+| Certainty: | definitely, probably, certainly |
+| Opinion: | clearly, personally, naturally |
+| Number: | once, twice |
+| Interrogative: | where, when, how |
+
+• Adverbs of manner: She hugged him happily.  
+• Adverbs of time: I ran 10 miles yesterday.  
+• Adverbs of place: I like shopping here.  
+• Adverbs of degree: The coffee is too cold to drink.  
+• Adverbs of certainty: She'll probably arrive late.  
+• Interrogative adverbs: Who is that?  
+<br>
+
+- Comparatives & Superlatives:
+    - easily - more easily than - the most easily
+    - dangerously - more dangerously than - the most dangerously
+
+- Irreqular adjectives
+| Adjective | Comparative | Superlative |
+|:---------:|:-----------:|:-----------:|
+| Short adverbs that <br> do NOT end in -ly <br> hard, fast, late | harder, faster, later | hardest, fastest, latest |
+| badly | worse | worst |
+| far | farther/ further | farthest/ furthest |
+| little | less | least |
+| well | better | best |
