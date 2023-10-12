@@ -5,8 +5,8 @@ draft: false
 categories: ["LeetCode"]
 tags: ["String", "Sliding Window", "LeetCode75"]
 ---
-### 1456.MaxVowelsinkLengthSubstring.py
-{{< ghcode "https://raw.githubusercontent.com/YuanData/LeetCode/main/py/1456.MaxVowelsinkLengthSubstring.py" >}}
+### 1456.MaxVowelsSubstr.py
+{{< ghcode "https://raw.githubusercontent.com/YuanData/LeetCode/main/py/1456.MaxVowelsSubstr.py" >}}
 
-### lc1456MaxVowelsinkLengthSubstring_test.go
-{{< ghcode "https://raw.githubusercontent.com/YuanData/LeetCode/main/lc/lc1456MaxVowelsinkLengthSubstring_test.go" >}}
+### lc1456MaxVowelsSubstr_test.go
+{{< ghcode "https://raw.githubusercontent.com/YuanData/LeetCode/main/lc/lc1456MaxVowelsSubstr_test.go" >}}
