@@ -230,7 +230,7 @@ draft: false
 | little | less | least |
 | well | better | best |
 
-### Prepositions:
+### Prepositions
 > A word, or a combination of words, used to show the relationship between a noun or pronoun in a sentence to another word in the same sentence.  
 
 > Prepositions can be combined with nouns, adjectives, and verbs, and are always followed by a noun or pronoun.
@@ -248,3 +248,16 @@ draft: false
 - Prepositions of **movement or direction**: to, into, at, along, towards...
 - Prepositions of **time**: in, on, at, for, during, until, after...
 - Prepositions of **purpose**: for, because of, from...
+
+### Conjunctions
+> A word that connects similar words or groups of words like phrases, clauses and sentences.
+
+- Coordinating conjunctions, also called coordinators, are used to link two or more main clauses or nouns
+    - and, but, or, nor, for, yet, so
+        - I bought a new jumper, and my sister bought shoes.
+- Subordinating conjunctions, also called subordinators, are used to link a dependant clause to an independent one:
+    - after, although, because, as, though, once...
+        - I'll email my teacher once I'm finished with my essay.
+- A correlative conjunction is a pair of words that work together to connect two grammatically equal parts of a sentence
+    - either...or, neither...nor, both... and, whether...or
+        - I don't know whether she'll end up dating Jason or Arnold.
