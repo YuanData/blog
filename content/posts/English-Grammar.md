@@ -261,3 +261,7 @@ draft: false
 - A correlative conjunction is a pair of words that work together to connect two grammatically equal parts of a sentence
     - either...or, neither...nor, both... and, whether...or
         - I don't know whether she'll end up dating Jason or Arnold.
+
+### Interjections
+- Interjections are a single or combination of words that are used to express surprise or emotion.
+- Don't use them in formal or written business English!
