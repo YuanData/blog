@@ -1,7 +1,6 @@
 ---
-title: "English Grammar"
+title: "Grammar: Main Parts of Speech"
 date: 2023-07-11T08:00:00+08:00
-lastmod: 2023-09-30T11:00:00+08:00
 draft: false
 ---
 ### Nouns
@@ -265,3 +264,32 @@ draft: false
 ### Interjections
 - Interjections are a single or combination of words that are used to express surprise or emotion.
 - Don't use them in formal or written business English!
+
+### Verbs
+> Indicate an action, occurrence, or state of being.  
+> All sentences require a verb
+
+1. Action verbs:
+    - Indicate an action or possession
+        - I saw Joe at the supermarket yesterday.
+        - I have two black dresses.
+    1. Transitive action verbs:
+        - Have a noun that receives the action of the verb
+            - Molly buys shoes.
+            - I eat vegetables every day.
+    2. Intransitive action verbs:
+        - Never have a direct or indirect object
+            - I ran across the street
+2. Linking verbs:
+    - Describe how the subject of a sentence is feeling
+        - Joey feels excited.
+3. Auxiliary verbs:
+    - Helping verbs are used before action or linking verbs to give extra information
+        - The dog is walking.
+        - The dog was walking.
+    - Modal auxiliary verbs: **can, could, may, might, must, ought to, shall, should, will, would**
+        - Laura might learn how to drive
+        - Laura must learn how to drive
+        - Can I ask you a question?
+        - Could I ask you a question?
+        - May I ask you a question?
