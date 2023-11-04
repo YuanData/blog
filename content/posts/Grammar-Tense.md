@@ -39,3 +39,18 @@ draft: false
 - Senses: appear, feel, smell, sound
 - Opinion: agree, belong, disagree, need
 {{< /admonition >}}
+
+### Past Simple
+- An action that happened once in the past: I drove to work this morning.
+- An action in the past that was completed at an unspecified time: I was so excited to see the play.
+- An action that happened regularly in the past: I worked in London last year.
+- Regular verbs: add -ed: I talked, you talked, she talked, he talked, it talked, we talked, you talked, they talked
+- Irregular verbs: must be learnt by heart!
+- to be: I was, you were, she was, he was, it was, we were, you were, they were
+
+- Negatives:<br>subject + did + not + infinitive <br>subject + didn't + infinitive
+    - My daughter did not want to go back to school.
+    - We didn't like that restaurant.
+- Questions: Did + subject + infinitive
+    - Did you enjoy the concert?
+    - Did we win?
