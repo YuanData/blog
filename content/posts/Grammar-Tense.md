@@ -54,3 +54,18 @@ draft: false
 - Questions: Did + subject + infinitive
     - Did you enjoy the concert?
     - Did we win?
+
+### Past Continuous
+- An action that was happening in the past, until another action started: I was watching TV when you called.
+- An action that happened before or after a specific time: I was sleeping at 11pm.
+- An action lasted for a long time: I was sneezing all day because of my allergies.
+- At the beginning of a story: I was driving when suddenly a cat ran into the middle of the road!
+- To express a change of mind: I was going to go for a run, when I decided to walk instead.
+- To express things that we want now in the present: I wish I wasn't coughing so badly.
+- Affirmatives: subject + was/were + present participle
+    - I was talking to her, when my sister interrupted me.
+    - They were playing football last night.
+- Negatives: subject + wasn't/weren't + present participle
+    - She wasn't working last weekend.
+- Questions: Was/Were + subject + present participle
+    - Were you shopping when I called?
