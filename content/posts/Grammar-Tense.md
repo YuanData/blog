@@ -69,3 +69,29 @@ draft: false
     - She wasn't working last weekend.
 - Questions: Was/Were + subject + present participle
     - Were you shopping when I called?
+
+### Simple Future
+- Present simple and continuous to talk about future actions or plans:
+    - The game starts at 6pm.
+    - We're playing basketball next weekend.
+#### will
+- Beliefs or predictions about the future: Cars will fly one day.
+- Wants or desires: I hope she'll be ok.
+- Offers and promises: We'll bring the wine!
+- Instant decisions: I'll go to the store!
+- Affirmatives: subject + will + infinitive
+    - She'll never play basketball again.
+    - We'll be happier when she's gone.
+- Negatives: subject + will not/ won't + infinitive
+    - They won't even try!
+- Questions: Will + subject + infinitive
+    - Will you join me for dinner?
+#### going to
+- Plans and firm intentions: I'm going to go clubbing this weekend.
+- Probable events based on evidence: It's going to fall!
+- Affirmatives: subject + be + going to + infinitive
+    - I'm going to the movies later.
+- Negatives: subject + be + not + going to + infinitive
+    - We're not going to play that game again, it sucks.
+- Questions: Be + not + going to + infinitive
+    - Are you going to drive to California?
